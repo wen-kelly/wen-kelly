@@ -1,9 +1,13 @@
-# 你好，我是wen-kelly！👋
-> 这里是广东一所大学的一名学生，热爱看小说，画画。
-## 👨‍💻 关于我
-- 🔭 目前正在学习：** Python**
-- 🌱 我的目标：成为一名优秀的开发者
-## ✨ 我的座右铭
-> my story,my rules.
+# Hi, I'm wen-kelly! 👋
+
+> A student from a university in Guangdong, passionate about reading novels and drawing.
+
+## About Me
+- 🔭 I’m currently learning: **Python**
+- 🌱 My goal: To become an excellent developer
+
+## My Motto
+> My story, my rules.
+
 ---
-⭐️ 感谢访问我的主页！
+⭐ Thanks for visiting my profile!
